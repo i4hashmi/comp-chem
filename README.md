@@ -1,6 +1,0 @@
-About the Website
-
-Welcome to the Computational Chemistry World — a dedicated platform designed to support students, researchers, and professionals in the field of computational chemistry. This website serves as a comprehensive resource for learning, troubleshooting, and enhancing your skills in computational chemistry and scientific programming.
-Whether you are new to the field or an experienced practitioner, you'll find step-by-step tutorials that cover essential concepts, popular software packages, and advanced techniques used in quantum chemistry, molecular dynamics, and materials modelling. The site also offers a growing collection of custom scripts and automation tools in Python, Bash, and other languages to streamline your workflows.
-One of our key goals is to simplify the often complex world of computational chemistry by providing clear solutions to common errors and technical issues encountered during simulations and data analysis. We also aim to foster a collaborative learning environment where knowledge is shared and practical challenges are addressed.
-Our content is grounded in real research experience, with a strong focus on accuracy, clarity, and accessibility. We hope this platform becomes a valuable companion in your computational chemistry journey.
